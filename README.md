@@ -7,6 +7,8 @@ Knap Sack chat is a proof in concept program that was developed to show a python
    * [KnapSackChat](#KnapSackChat)
       * [Table of Contents](#table-of-contents)
       * [Server Start](#step-1-server-start)
+      * [Client Start](#step-2-client-start)
+      * [Exchange Messages](#step-3-exchange-messages)
 
   
       
