@@ -15,6 +15,7 @@ Knap Sack chat is a proof in concept program that was developed to show a python
 # Step 1: Server Start
 Start the server by the command line by navigating to the directory where the server is insallted. You can start the server by running it with python and specifying the ip and port number. Note: This has only beenn tested locally and only on the local host. Additional configuration may be needed in order to configure on ip other than the local host.
 ![serverStart](Images/serverStart.png)
+![serverRunning](Images/serverRunning.png)
 
 # Step 2: Client Start
 Start the client the same way as starting the server by specifiying ip and port
