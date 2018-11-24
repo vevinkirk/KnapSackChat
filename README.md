@@ -6,12 +6,9 @@ Knap Sack chat is a proof in concept program that was developed to show a python
 ## Table of Contents
    * [KnapSackChat](#KnapSackChat)
       * [Table of Contents](#table-of-contents)
-      * [Sniffing Traffic](#step-1-sniffing-traffic)
-      * [Packet Capture](#step-2-packet-capture)
-      * [Certificate Packet](#step-3-certificate-packet)
-      * [Export Bytes](#step-4-export-bytes)
-      * [Client Cert](#step-5-client-cert)
-      * [OpenSSL](#step-6-openssl)
+      * [Server Start](#step-1-server-start)
+
+  
       
 # Step 1: Server Start
 Start the server by the command line by navigating to the directory where the server is insallted. You can start the server by running it with python and specifying the ip and port number. Note: This has only beenn tested locally and only on the local host. Additional configuration may be needed in order to configure on ip other than the local host.
