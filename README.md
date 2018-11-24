@@ -20,6 +20,8 @@ Start the server by the command line by navigating to the directory where the se
 # Step 2: Client Start
 Start the client the same way as starting the server by specifiying ip and port
 ![clientStart](Images/clientStart.png)
-
+![clientConnected](Images/clientConnected.png)
 # Step 3: Exchange Messages
 You can exchange messages back and forth with the client and the server.
+![clientResponse](Images/clientResponse.png)
+![serverResponse](Images/serverResponse.png)
